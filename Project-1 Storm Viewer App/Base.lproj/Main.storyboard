@@ -68,7 +68,7 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="imageView" destination="LKs-6e-zbl" id="BUy-b7-dFY"/>
+                        <outlet property="imageView" destination="LKs-6e-zbl" id="fiH-5j-r4U"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="F8l-20-JXI" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
